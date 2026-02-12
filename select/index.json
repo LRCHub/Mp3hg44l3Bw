@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Let It Roll",
+  "base_artist": "Flo Rida",
+  "createdAt": "2026-02-12T13:43:17.338222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let It Roll",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/01_Let_It_Roll_Midland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let It Roll",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/02_Let_It_Roll_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let It Roll (Album Version)",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": false,
+      "path": "select/03_Let_It_Roll_(Album_Version)_The_Charlie_Daniels_Band.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ballad Of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/04_Ballad_Of_Sir_Frankie_Crisp_(Let_It_Roll)_[2020_Mix]_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ballad Of Sir Frankie Crisp (Let It Roll) (2020 Mix)",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/05_Ballad_Of_Sir_Frankie_Crisp_(Let_It_Roll)_(2020_Mix)_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let It Roll",
+      "artist": "UFO",
+      "has_synced": false,
+      "path": "select/06_Let_It_Roll_UFO.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ballad Of Sir Frankie Crisp (Let It Roll) [Day 1 Demo / Take 2]",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/07_Ballad_Of_Sir_Frankie_Crisp_(Let_It_Roll)_[Day_1_Demo___Take_2]_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ballad of Sir Frankie Crisp (Let It Roll) (day 1 demo ⁄ take 2)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/08_Ballad_of_Sir_Frankie_Crisp_(Let_It_Roll)_(day_1_demo_⁄_take_2)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Let It Rock . . . You Let It Roll",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/09_We_Let_It_Rock_._._._You_Let_It_Roll_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Let It Rock… You Let It Roll",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/10_We_Let_It_Rock..._You_Let_It_Roll_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ballad Of Sir Frankie Crisp (Let It Roll)",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/11_Ballad_Of_Sir_Frankie_Crisp_(Let_It_Roll)_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let It Roll",
+      "artist": "Hieroglyphics",
+      "has_synced": false,
+      "path": "select/12_Let_It_Roll_Hieroglyphics.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let It Roll",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/13_Let_It_Roll_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let It Roll",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/14_Let_It_Roll_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let It Roll (Connect Sets Acoustic)",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/15_Let_It_Roll_(Connect_Sets_Acoustic)_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let It Roll",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/16_Let_It_Roll_Train.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let It Roll",
+      "artist": "Ladyhawke",
+      "has_synced": true,
+      "path": "select/17_Let_It_Roll_Ladyhawke.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let It Roll",
+      "artist": "Flo Rida",
+      "has_synced": false,
+      "path": "select/pl_01_Let_It_Roll_Flo_Rida.txt"
+    }
+  ]
+}
